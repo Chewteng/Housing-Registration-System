@@ -1,0 +1,11 @@
+Ooi,Belmont,56210.0
+John,Chersleton,23456.0
+Steven,GleentWood,43210.0
+Ann,Torridon,36321.0
+Salem,Milliways,88732.0
+Fazud,BinchTree,22765.0
+Adam,Star Hollow,54321.0
+Isabella,FairWay,76521.0
+Ali,M&M,66654.0
+Siti,Changlun,11234.0
+Tom,Subang Jaya,88762.0
